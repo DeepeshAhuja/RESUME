@@ -1,0 +1,28 @@
+/*******************************<tag selectors>*************************************/
+body {
+    background-color: #EAF6F6;
+}  
+hr {
+    border-style: none;
+    border-top-style: dashed;
+    border-color: gray;
+    width: 100%;
+}
+h1{
+    color: #66BFBF;
+}
+p{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+h3:hover{color: gold;;}
+/*******************************<class selectors>*************************************/
+.circular{
+    border-radius: 50%;
+}
+/*******************************<id selectors>*************************************/
+#heading{
+    background-color: gold;
+}
